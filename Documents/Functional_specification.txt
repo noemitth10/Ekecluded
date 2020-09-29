@@ -2,6 +2,12 @@
 
 2. Jelenlegi helyzet
 
+	Az Ekecluded programfejlesztői csapat felkérést kapott QNSZT kft-től, hogy elkészítsen egy Snake videójátékot. A rendszer 
+célja a szórakoztatás, amelyet egy JavaScriptben írt kígyó fog elvégezni. A játék viszonylag egyszerű felépítésű, egy pályán a kígyót
+irányítva, almákat felvéve a kígyó méretét és pontszámot növelve kell minnél tovább életben maradni. A kigyó irányítása a billenytyűzeten
+lévő nyilak segítségével hajtható végre. A pályán néhány akadály is található amelyhez hozzáérve a játék véget ér. A játék akkor is véget
+ér ha a kígyó feje hozza ér a teste bármelyik részéhez.
+
 3. Vágyálom rendszer
 
 4. Ajánlások
@@ -35,9 +41,21 @@
 
 5. Jelenlegi üzleti folyamatok
 
+	A megrendelő megbízta az Ekecluded programfejlesztői csapatot azzal, hogy készítsen egy Snake játékot amit böngészőből lehet majd játszani. 
+A jelenlegi projektünk pedig arra összpontosít, hogy létrehozza ezt a böngészőből játszható Snake játékot a megrendelő követelményei alapján.
+
+
 6. Igényelt üzleti folyamatok
 
 7. Követelménylista
+
+Modul	Id	Név				Leírás
+
+Game	G1	Pálya tervezés			Pálya megtervezése
+Game	G2	Pontozási rendszer		Pontozási rendszer létrehozása
+Game	G3	Random pont generálás		Random pont generálása képrenyőre
+Game	G4	Mozgatás,Növekedés		Mozgatás és Növekedés implementálása
+Game	G5	Grafikai elemek			Grafikai elemek megtervezése
 
 8. Használati esetek 
 
