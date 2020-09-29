@@ -1,0 +1,62 @@
+1. A rendszer célja és a nem céljai
+
+2. Jelenlegi helyzet
+
+	Az Ekecluded programfejlesztői csapat felkérést kapott QNSZT kft-től, hogy elkészítsen egy Snake videójátékot. A rendszer 
+célja a szórakoztatás, amelyet egy JavaScriptben írt kígyó fog elvégezni. A játék viszonylag egyszerű felépítésű, egy pályán a kígyót
+irányítva, almákat felvéve a kígyó méretét és pontszámot növelve kell minnél tovább életben maradni. A kigyó irányítása a billenytyűzeten
+lévő nyilak segítségével hajtható végre. A pályán néhány akadály is található amelyhez hozzáérve a játék véget ér. A játék akkor is véget
+ér ha a kígyó feje hozza ér a teste bármelyik részéhez.
+
+3. Vágyálom rendszer
+
+4. Ajánlások
+	Webes aplikációként a következő szabványok vonatkoznak ránk.
+
+	Általános szabványok
+		1. Muszáj könnyen használhatónak lenni a célközönség számára.
+		2. Logikusan kell működnie a célközönség számára.
+		3. Haszálnia kell az iparág legjobb gyakorlatait.
+		4. Olyan stílusokat kell használnia, amelyek következetesek az alkalmazásban és a társított webhelyen, beleértve a következőket is:
+			1. A hibaüzeneteknek állandó helyen és stílusban kell megjelenniük, és elegendő információt kell tartalmazniuk.
+			2. A nem elérhető űrlapvezérlőket el kell rejteni.
+	
+	Fejlesztési technológia, Programozási nyelv
+	A webes alkalmazás a következő(vagy fejlettebb) technológíákat használja:
+		JavaScript 1.8.5
+	Ajánlott fejlesztői környezet:
+		Visual Studio Code 1.49.0
+
+	Minimum Böngésző szabványok
+	A webalkalmazásnak megfelelően kell működnie és megjelennie a következő böngészőverziókban:
+		Microsoft Edge
+		Mozilla Firefox
+		Apple Safari
+		Google Chrome
+		Opera
+	Az alkalmazáshoz a böngészőknek támogatnia kell a JavaScriptet és a munkamenet-alapú sütiket
+	
+	Alakalmazás tesztelés
+	A webalkalmazásokat és webhelyeket alaposan tesztelni kell az összes szükséges böngészőverzióban, 800 × 600, 1024 × 768, 1360 × 768 és 1920 × 1080 képernyőfelbontásokkal.
+
+5. Jelenlegi üzleti folyamatok
+
+	A megrendelő megbízta az Ekecluded programfejlesztői csapatot azzal, hogy készítsen egy Snake játékot amit böngészőből lehet majd játszani. 
+A jelenlegi projektünk pedig arra összpontosít, hogy létrehozza ezt a böngészőből játszható Snake játékot a megrendelő követelményei alapján.
+
+
+6. Igényelt üzleti folyamatok
+
+7. Követelménylista
+
+Modul	Id	Név				Leírás
+
+Game	G1	Pálya tervezés			Pálya megtervezése
+Game	G2	Pontozási rendszer		Pontozási rendszer létrehozása
+Game	G3	Random pont generálás		Random pont generálása képrenyőre
+Game	G4	Mozgatás,Növekedés		Mozgatás és Növekedés implementálása
+Game	G5	Grafikai elemek			Grafikai elemek megtervezése
+
+8. Használati esetek 
+
+9. Képernyőtervek
