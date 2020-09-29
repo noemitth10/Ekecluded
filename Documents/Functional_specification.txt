@@ -66,4 +66,10 @@ Game	G5	Grafikai elemek			Grafikai elemek megtervezése
 
 8. Használati esetek 
 
+	Amikor a felhasználók megnyitják a webes aplikációt a kezdő oldalra fognak kerülni ami 
+	egy bejelentkezési felület, ahol több opcióval kerülnek szembe mint például a 
+	regisztráció vagy a jelszó megváltoztatása. Bejelentkezés vagy regisztráció után a 
+	felhasználók a fő oldalra kerülnek, ahol el bírják idítani az aplikációt vagy a saját
+	felhasználói fiókjukat tudják testreszabni.
+
 9. Képernyőtervek
