@@ -67,6 +67,11 @@ A jelenlegi projektünk pedig arra összpontosít, hogy létrehozza ezt a böng�
 
 6. Igényelt üzleti folyamatok modellje
 
+	A rendszer megvalósításáhóz szükség lenne egy szerverre, amin a rendszert futtatni 
+	tudjuk, illetve a rendszer igénybevételéhez a felhasználóknak szüksége van aktív 
+	internet kapcsolatra, ezen felül a rendszer fejlesztése során támogatásokra is 
+	szükség lenne.
+
 7. Követelménylista
 
 Modul	Id	Név				Leírás
