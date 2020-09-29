@@ -72,9 +72,15 @@ Game	G5	Grafikai elemek			Grafikai elemek megtervezése
 	felhasználók a fő oldalra kerülnek, ahol el bírják idítani az aplikációt vagy a saját
 	felhasználói fiókjukat tudják testreszabni.
 
-9. Képernyőtervek
+9. Követelmény megfeleltetés
+	A pont gyűjtés funkció úgy kerül megvalósításra, hogy mikor a kígyó áthalad egy gyümölcs obijektumon akkor megnöveljük a számlálót. Az eredményt egy táblába mentjük ki a játék végeztével.
+A mozgatás billentyűzet segítségével történik.
+Minden begyűjtött pont után a kígyó egy előre meghatározott értékkel lesz nagyobb.
+Random pontot egy Math osztálybeli Random függvény segítségével valósítjuk meg.
 
-10. Fogalomszótár
+10. Képernyőtervek
+
+11. Fogalomszótár
 
 	JavaScript - A JavaScript avagy JS egy programozási nyelv, amelyet kifejezetten az internetre fejlesztettek ki. A legtöbb
 	webböngésző szoftver, illetve az okostelefonok is mind támogatják a JavaScriptet.
