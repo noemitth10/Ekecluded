@@ -25,7 +25,9 @@ Mérföldkövek:
 
 3. Üzleti folyamatok modellje
 
-
+	Sponzorok támogatására lesz szükség a rendszer fejlesztése során, illetve egy szerverre 
+	amin a rendszer fut. A felhasználóknak szüksége van aktív internet kapcsolatra, hogy a 
+	rendszert igénybe tudják venni.
 
 4. Követelmények
 
