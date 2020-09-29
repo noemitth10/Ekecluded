@@ -69,3 +69,5 @@ A webalkalmazásnak megfelelően kell működnie és megjelennie a következő b
 	-Opera
 
 7. Tesztterv
+
+	Alkalmazásunkat minden böngészőben teszteljük 800 × 600, 1024 × 768, 1360 × 768 és 1920 × 1080 képernyőfelbontásokkal, illetve ellenőrizzük, hogy futás közben ne fordulhassanak elő váratlan hibaesetek. Ezen felül ellenőrizzük, hogy csak az előre megadott gombokkal lehessen csak irányítani a játékot.
