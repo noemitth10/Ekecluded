@@ -1,16 +1,16 @@
 1. A rendszer célja
 
 	A csapatunk felkérést kapott QNSZT kft-től, hogy elkészítsen egy Snake videójátékot. A rendszer célja a szórakoztatás, 
-amelyet egy javascriptben írt kígyó fog elvégezni. A játék viszonylag egyszerű felépítésű, egy pályán a kígyónkat irányítva 
-almákat "eszünk" meg, ezzel a méretünket és pontszámunkat növelve. A pályán néhány akadály is található amelyhez hozzáérve a 
-játék véget ér. A játék akkor is véget ér ha a kígyónk feje hozza ér a farkához.
+amelyet egy Javascriptben írt kígyó fog elvégezni. A játék viszonylag egyszerű felépítésű, egy pályán a kígyót irányítva 
+almákat "eszünk" meg, ezzel a méretét és pontszámot növelve. A pályán néhány akadály is található amelyhez hozzáérve a 
+játék véget ér. A játék akkor is véget ér ha a kígyó feje hozza ér a teste bármelyik részéhez.
 
 
 2. Projekt terv
 
 Megrendelő: QNSZT kft.
 Projekt vezetők: Farkas Balázs, Tóth Noémi, Barkóczi Martin
-Projekt munkások: Alexa Kornél, Horvát István, Horváth Gábor
+Junior programozók: Alexa Kornél, Horvát István, Horváth Gábor
 
 A rendszer elkészítésére 1 hónap áll rendelkezésre. Ez idő alatt a dokumentációnak és a rendszernek is kész kell hogy legyen.
 
@@ -32,8 +32,8 @@ Mérföldkövek:
 
 	Fontos lenne, ha a rendszer tartalmazna igényesen elkészitett Grafikai elemeket mivel ez nagyban hozzajárul a felhasználói
 élményhez. Ezentúl jó lenne, ha a rendszer tartalmazna megfelelően elkészített Pontrendszert is ahol megnézhetnénk az előző
-körökben elért eredményt és azt is, hogy mennyi volt a legjobb elért pontszámunk. Legyen a rendszerben egy igényesen elkészített 
-Menü is amelyben kényelmesen tudunk navigálni, gondolok itt játék indítására, pontszámok megtekintésére, esetleg nehézségi szint
+körökben elért eredményt és azt is, hogy mennyi volt a legjobb elért pontszám. Legyen a rendszerben egy igényesen elkészített 
+Menü is amelyben kényelmesen lehet navigálni, például játék indítására, pontszámok megtekintésére, esetleg nehézségi szint
 választására és egy kilépés opcióra.
 
 -Grafikai elemek készítése
