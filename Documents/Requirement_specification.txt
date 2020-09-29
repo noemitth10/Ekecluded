@@ -56,8 +56,8 @@ lévő nyilak segítségével hajtható végre. A pályán néhány akadály is 
 
 5. Jelenlegi üzleti folyamatok modellje
 
-A megrendelő megbízta az Ekecluded programfejlesztői csapatot azzal, hogy készítsen egy Snake játékot amit böngészőböl lehet majd játszani. 
-A jelenlegi projektünk pedig arra öszpontosít, hogy létrehozza ezt a böngészőböl játszható Snake játékot a megrendelő követelményei alapján.
+A megrendelő megbízta az Ekecluded programfejlesztői csapatot azzal, hogy készítsen egy Snake játékot amit böngészőből lehet majd játszani. 
+A jelenlegi projektünk pedig arra összpontosít, hogy létrehozza ezt a böngészőből játszható Snake játékot a megrendelő követelményei alapján.
 
 6. Igényelt üzleti folyamatok modellje
 
