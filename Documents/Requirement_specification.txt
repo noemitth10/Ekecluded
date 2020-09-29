@@ -16,11 +16,9 @@ Tagok:
 
 2. Jelenlegi helyzet
 
-	Az Ekecluded programfejlesztői csapat felkérést kapott QNSZT kft-től, hogy elkészítsen egy Snake videójátékot. A rendszer 
-célja a szórakoztatás, amelyet egy JavaScriptben írt kígyó fog elvégezni. A játék viszonylag egyszerű felépítésű, egy pályán a kígyót
-irányítva, almákat felvéve a kígyó méretét és pontszámot növelve kell minnél tovább életben maradni. A kigyó irányítása a billenytyűzeten
-lévő nyilak segítségével hajtható végre. A pályán néhány akadály is található amelyhez hozzáérve a játék véget ér. A játék akkor is véget
-ér ha a kígyó feje hozza ér a teste bármelyik részéhez.
+	Az Ekecluded programfejlesztői csapat felkérést kapott a QNSZT kft-től egy Snake videójáték elkészítésére. Csapatunk egy egyszerű de élvezhető
+játékon dolgozik, figyelve a részletekre mint például a karakterünk irányítása, növekedésére illetve a pontrendszer fejlesztésére. A játékmenetet szintén
+a lehető legélvezhetőbbé tenni. 
 
 3. Vágyálom rendszer
 

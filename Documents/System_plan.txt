@@ -1,10 +1,9 @@
 1. A rendszer célja
 
-	A csapatunk felkérést kapott QNSZT kft-től, hogy elkészítsen egy Snake videójátékot. A rendszer célja a szórakoztatás, 
-amelyet egy Javascriptben írt kígyó fog elvégezni. A játék viszonylag egyszerű felépítésű, egy pályán a kígyót irányítva 
-almákat "eszünk" meg, ezzel a méretét és pontszámot növelve. A pályán néhány akadály is található amelyhez hozzáérve a 
-játék véget ér. A játék akkor is véget ér ha a kígyó feje hozza ér a teste bármelyik részéhez.
-
+	A rendszer célja a szórakoztatás, amelyet egy JavaScriptben írt kígyó fog elvégezni. A játék viszonylag egyszerű felépítésű, egy pályán a kígyót
+irányítva, almákat felvéve a kígyó méretét és pontszámot növelve kell minnél tovább életben maradni. A kigyó irányítása a billenytyűzeten
+lévő nyilak segítségével hajtható végre. A pályán néhány akadály is található amelyhez hozzáérve a játék véget ér. A játék akkor is véget
+ér ha a kígyó feje hozza ér a teste bármelyik részéhez.
 
 2. Projekt terv
 
@@ -36,14 +35,39 @@ körökben elért eredményt és azt is, hogy mennyi volt a legjobb elért ponts
 Menü is amelyben kényelmesen lehet navigálni, például játék indítására, pontszámok megtekintésére, esetleg nehézségi szint
 választására és egy kilépés opcióra.
 
--Grafikai elemek készítése
--Pontrendszer létrehozása
--Menü létrehozása
+-Pálya megtervezése
+-Pontozási rendszer létrehozása
+-Random pont generálása képrenyőre
+-Mozgatás és Növekedés implementálása
 
 5. Funkcionális terv
+
+Pálya megtervezése:
+	A játékban egy négyzet alakú pálya lesz akadályokkal ellátva amelyek fix helyen helyezkednek el.
+Ha a karakterünk valamelyik oldalt a pályán kivülre megy akkor a másik oldalt jelenik meg és folytatja az előre való mozgást,
+ilyenkor a játékmenet folytatódik.
+
+Pontozási rendszer létrehozása:
+	A program itt egy integer változóban tárolja az aktuális pontszámot, melyet minden alma felvéltelkor megnövel.
+Ezt a változót minden játék végén nullázzuk, hogy új játék kezdeténél ne az előzőleg elért pontszámtól induljon a számláló.
+
+Random pont generálása képrenyőre:
+	A program a Math osztály random metódusával egy véletlenszerű pontot generál, ami a pontok elhelyezésére fog szolgálni.
+Ennek az eljárásnak mindedn új játéknál és minden pont felvétel után le kell futnia, mivel új pontra lesz szukség a játék folytatásához.
+
+Mozgatás és Növekedés implementálása:
+	A program az x vagy y kordinátát változtat ez által a karakterünk előre fog mozogni, gombnyomással irányt tudunk változtatni a karakterünkkel. 
+	
 6. Fizikai környezet
-7. Architekturális terv
-8. Implementációs terv
-9. Tesztterv
-10. Telepítési terv
-11. Karbantartási terv
+
+	A megrendelő által kért Snake játékot JavaScriptben fogjuk kivitelezni. 
+A webalkalmazásnak megfelelően kell működnie és megjelennie a következő böngészőverziókban:
+	-Microsoft Edge
+	-Mozilla Firefox
+	-Apple Safari
+	-Google Chrome
+	-Opera
+
+7. Tesztterv
+
+	Alkalmazásunkat minden böngészőben teszteljük 800 × 600, 1024 × 768, 1360 × 768 és 1920 × 1080 képernyőfelbontásokkal, illetve ellenőrizzük, hogy futás közben ne fordulhassanak elő váratlan hibaesetek. Ezen felül ellenőrizzük, hogy csak az előre megadott gombokkal lehessen csak irányítani a játékot.
