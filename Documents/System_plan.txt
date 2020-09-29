@@ -35,9 +35,11 @@ körökben elért eredményt és azt is, hogy mennyi volt a legjobb elért ponts
 Menü is amelyben kényelmesen lehet navigálni, például játék indítására, pontszámok megtekintésére, esetleg nehézségi szint
 választására és egy kilépés opcióra.
 
--Grafikai elemek készítése
--Pontrendszer létrehozása
--Menü létrehozása
+-Pálya megtervezése
+-Pontozási rendszer létrehozása
+-Random pont generálása képrenyőre
+-Mozgatás és Növekedés implementálása
+-Grafikai elemek megtervezése
 
 5. Funkcionális terv
 6. Fizikai környezet
