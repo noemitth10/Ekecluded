@@ -13,6 +13,12 @@ a lehető legélvezhetőbbé tenni.
 
 3. Vágyálom rendszer
 
+	A rendszerben egy igényesen kidolgozott grafika megvalósítása lenne a cél, hogy a 
+	felhasználói élményeket javítsuk. Egy pontrendszer kidolgozására is törekedünk, 
+	hogy a felhasználúk követni tudják az eddig elért legmagasabb pontszámukat illetve az előző 
+	körben elért pontszámukat is. A menü-t szeretnék minél inkább leegyszerűsíteni, hogy 
+	megkönnyítsük a felhasználók navigációját a rendszeren belül.
+
 4. Ajánlások
 	Webes aplikációként a következő szabványok vonatkoznak ránk.
 
