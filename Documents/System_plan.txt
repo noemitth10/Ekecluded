@@ -1,0 +1,49 @@
+1. A rendszer célja
+
+	A csapatunk felkérést kapott QNSZT kft-től, hogy elkészítsen egy Snake videójátékot. A rendszer célja a szórakoztatás, 
+amelyet egy javascriptben írt kígyó fog elvégezni. A játék viszonylag egyszerű felépítésű, egy pályán a kígyónkat irányítva 
+almákat "eszünk" meg, ezzel a méretünket és pontszámunkat növelve. A pályán néhány akadály is található amelyhez hozzáérve a 
+játék véget ér. A játék akkor is véget ér ha a kígyónk feje hozza ér a farkához.
+
+
+2. Projekt terv
+
+Megrendelő: QNSZT kft.
+Projekt vezetők: Farkas Balázs, Tóth Noémi, Barkóczi Martin
+Projekt munkások: Alexa Kornél, Horvát István, Horváth Gábor
+
+A rendszer elkészítésére 1 hónap áll rendelkezésre. Ez idő alatt a dokumentációnak és a rendszernek is kész kell hogy legyen.
+
+Ütemterv:
+-Dokumentációnak 2020 október 1-re kész kell lennie.
+-A rendszernek 2020 október  8-ra kész kell lennie.
+
+Mérföldkövek:
+-Rendszer főbb részeinek megtervezése.
+-Rendszer megvalósítása a tervek alapján.
+-Dokumentáció megírása.
+-Tesztelés/Javítás.
+
+3. Üzleti folyamatok modellje
+
+
+
+4. Követelmények
+
+	Fontos lenne, ha a rendszer tartalmazna igényesen elkészitett Grafikai elemeket mivel ez nagyban hozzajárul a felhasználói
+élményhez. Ezentúl jó lenne, ha a rendszer tartalmazna megfelelően elkészített Pontrendszert is ahol megnézhetnénk az előző
+körökben elért eredményt és azt is, hogy mennyi volt a legjobb elért pontszámunk. Legyen a rendszerben egy igényesen elkészített 
+Menü is amelyben kényelmesen tudunk navigálni, gondolok itt játék indítására, pontszámok megtekintésére, esetleg nehézségi szint
+választására és egy kilépés opcióra.
+
+-Grafikai elemek készítése
+-Pontrendszer létrehozása
+-Menü létrehozása
+
+5. Funkcionális terv
+6. Fizikai környezet
+7. Architekturális terv
+8. Implementációs terv
+9. Tesztterv
+10. Telepítési terv
+11. Karbantartási terv
