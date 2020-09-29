@@ -1,5 +1,19 @@
 1. Bemutatkozó
 
+	Az Ekecluded egy világszerte ismert fejlesztő csapat akik hatalmas dolgokat képesek elérni közösen,
+a tagok között kialakult remek kapcsolat és programozási tapasztalataik segítségével. A csapat 6 tagból áll,
+a csapat 2018-ban alakult.
+
+	A jelenlegi projektünk egy JavaScript alapú Snake.
+
+Tagok: 
+	Alexa Kornél
+	Barkóczi Martin
+	Farkas Balázs
+	Horváth Gábor
+	Horváth István
+	Tóth Noémi Evelin
+
 2. Jelenlegi helyzet
 
 	Az Ekecluded programfejlesztői csapat felkérést kapott QNSZT kft-től, hogy elkészítsen egy Snake videójátékot. A rendszer 
