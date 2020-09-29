@@ -1,1 +1,17 @@
-Introduction
+1. Bemutatkozó
+
+2. Jelenlegi helyzet
+
+3. Vágyálom rendszer
+
+4. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
+
+5. Jelenlegi üzleti folyamatok modellje
+
+6. Igényelt üzleti folyamatok modellje
+
+7. Követelménylista
+
+8. Irányított és szabad szöveges riportok szövege
+
+9. Fogalomszótár
