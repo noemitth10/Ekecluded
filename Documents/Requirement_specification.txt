@@ -56,9 +56,20 @@ lévő nyilak segítségével hajtható végre. A pályán néhány akadály is 
 
 5. Jelenlegi üzleti folyamatok modellje
 
+A megrendelő megbízta az Ekecluded programfejlesztői csapatot azzal, hogy készítsen egy Snake játékot amit böngészőböl lehet majd játszani. 
+A jelenlegi projektünk pedig arra öszpontosít, hogy létrehozza ezt a böngészőböl játszható Snake játékot a megrendelő követelményei alapján.
+
 6. Igényelt üzleti folyamatok modellje
 
 7. Követelménylista
+
+Modul	Id	Név				Leírás
+
+Game	G1	Pálya tervezés			Pálya megtervezése
+Game	G2	Pontozási rendszer		Pontozási rendszer létrehozása
+Game	G3	Random pont generálás		Random pont generálása képrenyőre
+Game	G4	Mozgatás,Növekedés		Mozgatás és Növekedés implementálása
+Game	G5	Grafikai elemek			Grafikai elemek megtervezése
 
 8. Irányított és szabad szöveges riportok szövege
 
