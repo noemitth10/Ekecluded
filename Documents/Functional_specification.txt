@@ -50,6 +50,10 @@ A jelenlegi projektünk pedig arra összpontosít, hogy létrehozza ezt a böng�
 
 6. Igényelt üzleti folyamatok
 
+	Sponzorok támogatására lesz szükség a rendszer fejlesztése során, illetve egy szerverre 
+	amin a rendszer fut. A felhasználóknak szüksége van aktív internet kapcsolatra, hogy a 
+	rendszert igénybe tudják venni.
+
 7. Követelménylista
 
 Modul	Id	Név				Leírás
