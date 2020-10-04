@@ -42,9 +42,14 @@ Webes aplikációként a következő szabványok vonatkoznak ránk.
 
 
 # Igényelt üzleti folyamatok
-	Sponzorok támogatására lesz szükség a rendszer fejlesztése során, illetve egy szerverre 
-	amin a rendszer fut. A felhasználóknak szüksége van aktív internet kapcsolatra, hogy a 
-	rendszert igénybe tudják venni.
+Azért, hogy könnyebben elérhetővé tegyük a snake játékot létrehozzuk a legújabb snake 
+játékot, amely modern web böngészőkön és okos eszközökön helyt tud áll. A felhasználóknak
+egyszerűbb dolga lesz, mert a régebbi snake játékokhoz képest egy sokkal felhasználó 
+barátabb menü fogja majd fogadni őket a bejelentkezés vagy regisztráció után. Az alkalmazás 
+használata során elért pontjaikat folyamatosan számon tudják tartani, illetve a két kör 
+között vissza tudják majd nézni a legmagasabb elért pontszámukat vagy az előző körben elért 
+pontszámukat. A többjétákos mód kialakítása fontos, hogy megadjuk a lehetőséget a 
+felhasználók közti verseny szellem kialakításában, átalakításában.
 
 # Követelménylista
 
