@@ -69,10 +69,11 @@ Pontokat a játékosok a játékon belüli almák összeszedésével gyűjthetne
 
 # Igényelt üzleti folyamatok modellje
 
-	A rendszer megvalósításáhóz szükség lenne egy szerverre, amin a rendszert futtatni 
-	tudjuk, illetve a rendszer igénybevételéhez a felhasználóknak szüksége van aktív 
-	internet kapcsolatra, ezen felül a rendszer fejlesztése során támogatásokra is 
-	szükség lenne.
+	A megrendelő a fő oldalon szeretne belépni, valamint megkezdeni a regisztrációt, mely egy 
+	külön oldalon folytatódna. Bejelentkezés után lehetőséget, hozzáférést kell biztosítani a 
+	felhasználónak az alkalmazás funkcióihoz, mint például adat módosítás, beállítások az 
+	alkalmazáson belül, a snake játék megkezdése, a jelenlegi rekord megtekintése vagy az előző 
+	körben elért pontszám visszanézése.
 
 # Követelménylista
 
