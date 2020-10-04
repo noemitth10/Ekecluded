@@ -61,8 +61,11 @@ Pontokat a játékosok a játékon belüli almák összeszedésével gyűjthetne
 
 # Jelenlegi üzleti folyamatok modellje
 
-A megrendelő megbízta az Ekecluded programfejlesztői csapatot azzal, hogy készítsen egy Snake játékot amit böngészőből lehet majd játszani. 
-A jelenlegi projektünk pedig arra összpontosít, hogy létrehozza ezt a böngészőből játszható Snake játékot a megrendelő követelményei alapján.
+	A mai snake játékok nem használják ki a különböző web böngészők adta lehetőségeket és a 
+	legtöbb böngészőben nem is érhető el. Jelenleg a snake csak a régebbi böngészőkben, illetve 
+	régebbi készülékeken működik, amely nem célszerű, mivel a felhasználók egy jelentős része 
+	már az újabb böngészőket, készülékeket használja. A többjátékos mód hiánya is egy nagy
+	hiányossága a jelelnlegi snake játékoknak.
 
 # Igényelt üzleti folyamatok modellje
 
