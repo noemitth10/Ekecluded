@@ -38,7 +38,11 @@ Webes aplikációként a következő szabványok vonatkoznak ránk.
 	A webalkalmazásokat és webhelyeket alaposan tesztelni kell az összes szükséges böngészőverzióban, 800 × 600, 1024 × 768, 1360 × 768 és 1920 × 1080 képernyőfelbontásokkal.
 
 # Jelenlegi üzleti folyamatok
-	A megrendelő megbízta az Ekecluded programfejlesztői csapatot azzal, hogy készítsen egy Snake játékot amit böngészőből lehet majd játszani. A jelenlegi projektünk pedig arra összpontosít, hogy létrehozza ezt a böngészőből játszható Snake játékot a megrendelő követelményei alapján.
+A mai snake játékok nem használják ki a különböző web böngészők adta lehetőségeket és a 
+legtöbb böngészőben nem is érhető el. Jelenleg a snake csak a régebbi böngészőkben, illetve 
+régebbi készülékeken működik, amely nem célszerű, mivel a felhasználók egy jelentős része 
+már az újabb böngészőket, készülékeket használja. A többjátékos mód hiánya is egy nagy
+hiányossága a jelelnlegi snake játékoknak.
 
 
 # Igényelt üzleti folyamatok
