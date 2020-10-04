@@ -3,13 +3,43 @@
 # Projekt terv
 Megrendelő: QNSZT kft.
 Projekt vezetők: Farkas Balázs, Tóth Noémi, Barkóczi Martin
+A projektvezető felelős a projektcélok megvalósulásáért. A projektvezető ritkán vesz részt közvetlenül a projekt végeredményének előállításához szükséges
+tevékenységekben, viszont biztosítja a folyamatos előrehaladást, és a különböző résztvevők közötti kölcsönösen hatékony együttműködést annak érdekében,
+hogy a projekt sikeres legyen.
+
 Junior programozók: Alexa Kornél, Horvát István, Horváth Gábor
+A Junior programozó feladata számítógépes szoftverek (programok) megtervezése és kivitelezése.
 
 A rendszer elkészítésére 1 hónap áll rendelkezésre. Ez idő alatt a dokumentációnak és a rendszernek is kész kell hogy legyen.
 
 Ütemterv:
+
+Funkció			Feladat				Prioritás	Becslés		Határidő
+
+Pálya			Pálya megtervezése		A		12 óra		2020.10.05.
+
+Irányítás		Irányítás megtervezése		A		24 óra		2020.10.06.
+		 	és megvalósítása
+
+Pontozási rendszer	Pontozási rendszer megtervezése	B		12 óra		2020.10.07.
+ 			és megvalósítása
+
+Random pont generálás	Random pont generálása		A		6 óra		2020.10.07.
+			képernyőre
+
+Növekedés		Növekedés megvalósítása		C		12 óra		2020.10.07.
+		
+Timer			Timer implementálása		B		6 óra		2020.10.07.	
+
+A - Nagyon fontos
+B - Fontos
+C - Kevésbé fontos
+
+
 -Dokumentációnak 2020 október 1-re kész kell lennie.
--A rendszernek 2020 október  8-ra kész kell lennie.
+-A rendszerhez szükséges pályának 2020 október  5-re kész kell lennie.
+-A rendszerhez szükséges irányításnak 2020 október  6-re kész kell lennie.
+-A rendszerhez szükséges játék 2020 október  7-re kész kell lennie.
 
 Mérföldkövek:
 -Rendszer főbb részeinek megtervezése.
