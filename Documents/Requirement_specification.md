@@ -1,4 +1,4 @@
-1. Bemutatkozó
+# Bemutatkozó
 
 	Az Ekecluded egy világszerte ismert fejlesztő csapat akik hatalmas dolgokat képesek elérni közösen,
 a tagok között kialakult remek kapcsolat és programozási tapasztalataik segítségével. A csapat 6 tagból áll,
@@ -6,71 +6,72 @@ a csapat 2018-ban alakult.
 
 	A jelenlegi projektünk egy JavaScript alapú Snake.
 
-Tagok: 
-	Alexa Kornél
-	Barkóczi Martin
-	Farkas Balázs
-	Horváth Gábor
-	Horváth István
-	Tóth Noémi Evelin
+## Tagok: 
+	-Alexa Kornél
+	-Barkóczi Martin
+	-Farkas Balázs
+	-Horváth Gábor
+	-Horváth István
+	-Tóth Noémi Evelin
 
-2. Jelenlegi helyzet
+# Jelenlegi helyzet
 
-	Az Ekecluded programfejlesztői csapat felkérést kapott a QNSZT kft-től egy Snake videójáték elkészítésére. Csapatunk egy egyszerű de élvezhető
-játékon dolgozik, figyelve a részletekre mint például a karakterünk irányítása, növekedésére illetve a pontrendszer fejlesztésére. A játékmenetet szintén
-a lehető legélvezhetőbbé tenni. 
+	Manapság az emberek kevés időt tudnak eltölteni szórakozással a mindennapjaikban,
+ezáltal egyre stresszesebbek és demotiváltak lesznek, így munkamoráljuk is csökken.
+Alkalmazásunk segítséget nyújt ezen problémák ellen egy mindenki álltal ismert egyszerű
+játék formájában.
 
-3. Vágyálom rendszer
+# Vágyálom rendszer
 
-	A rendszer megvalósításakor szeretnénk egy igényesen kidolgozott grafikát megvalósítani,
-	hogy ezzel erősítsük a felhasználói élményt. Egy pontrendszer megvalósítása is a célunk,
-	aminek a segítségével a felhasználók megtekinthetik a legmagasabb elért pontszámot és az 
-	előző körben elért legmagasabb pontszámot is, illetve célunk egy felhasználó barát menü
-	felület kidolgozása is amiben a felhasználók könnyen tudnak navigálni.
+	A projekt célja egy olyan játék, mely könnyed kikapcsolódást, szórakozást nyújt 
+felhasználóinak. A játék webes formában elérhető. Regisztráció után a játékban elért
+eredményeit nyomon követheti illetve összemérheti eredményeit játékos társaival is.
+Látványos színes felülettel rendelkezik a játék, hogy ezáltal is minnél nagyobb kikapcsolódást nyújtson felhasználóinak. 
+Pontokat a játékosok a játékon belüli almák összeszedésével gyűjthetnek.
 
-4. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
+# A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
 
 	Webes aplikációként a következő szabványok vonatkoznak ránk.
 
-	Általános szabványok
-		1. Muszáj könnyen használhatónak lenni a célközönség számára.
-		2. Logikusan kell működnie a célközönség számára.
-		3. Haszálnia kell az iparág legjobb gyakorlatait.
-		4. Olyan stílusokat kell használnia, amelyek következetesek az alkalmazásban és a társított webhelyen, beleértve a következőket is:
-			1. A hibaüzeneteknek állandó helyen és stílusban kell megjelenniük, és elegendő információt kell tartalmazniuk.
-			2. A nem elérhető űrlapvezérlőket el kell rejteni.
+	## Általános szabványok
+		- Muszáj könnyen használhatónak lenni a célközönség számára.
+		- Logikusan kell működnie a célközönség számára.
+		- Haszálnia kell az iparág legjobb gyakorlatait.
+		- Olyan stílusokat kell használnia, amelyek következetesek az alkalmazásban és a társított webhelyen, beleértve a következőket is:
+			- A hibaüzeneteknek állandó helyen és stílusban kell megjelenniük, és elegendő információt kell tartalmazniuk.
+			- A nem elérhető űrlapvezérlőket el kell rejteni.
 	
-	Fejlesztési technológia, Programozási nyelv
+	## Fejlesztési technológia, Programozási nyelv
 	A webes alkalmazás a következő(vagy fejlettebb) technológíákat használja:
-		JavaScript 1.8.5
+		- JavaScript 1.8.5
 	Ajánlott fejlesztői környezet:
-		Visual Studio Code 1.49.0
+		- Visual Studio Code 1.49.0
 
-	Minimum Böngésző szabványok
+	## Minimum Böngésző szabványok
 	A webalkalmazásnak megfelelően kell működnie és megjelennie a következő böngészőverziókban:
-		Microsoft Edge
-		Mozilla Firefox
-		Apple Safari
-		Google Chrome
-		Opera
+		- Microsoft Edge
+		- Mozilla Firefox
+		- Apple Safari
+		- Google Chrome
+		- Opera
 	Az alkalmazáshoz a böngészőknek támogatnia kell a JavaScriptet és a munkamenet-alapú sütiket
 	
-	Alakalmazás tesztelés
+	## Alakalmazás tesztelés
 	A webalkalmazásokat és webhelyeket alaposan tesztelni kell az összes szükséges böngészőverzióban, 800 × 600, 1024 × 768, 1360 × 768 és 1920 × 1080 képernyőfelbontásokkal.
 
-5. Jelenlegi üzleti folyamatok modellje
+# Jelenlegi üzleti folyamatok modellje
 
 A megrendelő megbízta az Ekecluded programfejlesztői csapatot azzal, hogy készítsen egy Snake játékot amit böngészőből lehet majd játszani. 
 A jelenlegi projektünk pedig arra összpontosít, hogy létrehozza ezt a böngészőből játszható Snake játékot a megrendelő követelményei alapján.
 
-6. Igényelt üzleti folyamatok modellje
+# Igényelt üzleti folyamatok modellje
 
 	A rendszer megvalósításáhóz szükség lenne egy szerverre, amin a rendszert futtatni 
 	tudjuk, illetve a rendszer igénybevételéhez a felhasználóknak szüksége van aktív 
 	internet kapcsolatra, ezen felül a rendszer fejlesztése során támogatásokra is 
 	szükség lenne.
 
-7. Követelménylista
+# Követelménylista
 
 Modul	Id	Név				Leírás
 
@@ -80,9 +81,9 @@ Game	G3	Random pont generálás		Random pont generálása képrenyőre
 Game	G4	Mozgatás,Növekedés		Mozgatás és Növekedés implementálása
 Game	G5	Grafikai elemek			Grafikai elemek megtervezése
 
-8. Irányított és szabad szöveges riportok szövege
+# Irányított és szabad szöveges riportok szövege
 
-9. Fogalomszótár
+# Fogalomszótár
 
 	JavaScript - A JavaScript avagy JS egy programozási nyelv, amelyet kifejezetten az internetre fejlesztettek ki. A legtöbb
 	webböngésző szoftver, illetve az okostelefonok is mind támogatják a JavaScriptet.
