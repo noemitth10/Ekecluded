@@ -71,7 +71,10 @@ Mozgatás és Növekedés implementálása:
 	A program az x vagy y kordinátát változtat ez által a karakterünk előre fog mozogni, gombnyomással irányt tudunk változtatni a karakterünkkel. 
 	
 # Fizikai környezet
-	A megrendelő által kért Snake játékot JavaScriptben fogjuk kivitelezni. 
+	A megrendelő által kért Snake játékot a JavaScriptben fogjuk kivitelezni, Visual Studio Code program használatba vételével.
+A fejlesztések Windows 10 operációs rendszeren végezzük, azonban a program több operációs rendszeren is futni fog.
+-JavaScript 1.8.5
+-Visual Studio Code 1.49.0
 A webalkalmazásnak megfelelően kell működnie és megjelennie a következő böngészőverziókban:
 	- Microsoft Edge
 	- Mozilla Firefox
