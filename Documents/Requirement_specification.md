@@ -11,7 +11,7 @@ A jelenlegi projektünk egy JavaScript alapú Snake.
 # Jelenlegi helyzet
 Manapság az emberek kevés időt tudnak eltölteni szórakozással a mindennapjaikban, ezáltal egyre stresszesebbek és demotiváltak lesznek, így munkamoráljuk is csökken. Alkalmazásunk segítséget nyújt ezen problémák ellen egy mindenki álltal ismert egyszerű játék formájában.
 # Vágyálom rendszer
-A projekt célja egy olyan játék, mely könnyed kikapcsolódást, szórakozást nyújt felhasználóinak. A játék webes formában elérhető. Regisztráció után a játékban elért eredményeit nyomon követheti illetve összemérheti eredményeit játékos társaival is. Látványos színes felülettel rendelkezik a játék, hogy ezáltal is minnél nagyobb kikapcsolódást nyújtson felhasználóinak. Pontokat a játékosok a játékon belüli almák összeszedésével gyűjthetnek.
+A projekt célja egy olyan játék, mely könnyed kikapcsolódást, szórakozást nyújt felhasználóinak. A játék webes formában elérhető. Regisztráció után a játékban elért eredményeit nyomon követheti illetve összemérheti eredményeit játékos társaival is. Látványos színes felülettel rendelkezik a játék, hogy ezáltal is minnél nagyobb kikapcsolódást nyújtson felhasználóinak. Pontokat a játékosok a játékon belüli almák összeszedésével gyűjthetnek, a pontok az úgynevezett kígyó méretével nőnek a játék menete során. A felhasználóknak lesz esélyük együtt játszani a többjátékos módban, illetve egymás ellen is dolgozhatnak a saját döntésük alapján.
 # A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
 Webes aplikációként a következő szabványok vonatkoznak ránk.
 ## Általános szabványok
