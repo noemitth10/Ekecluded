@@ -9,7 +9,7 @@ hogy a projekt sikeres legyen.
 Junior programozók: Alexa Kornél, Horvát István, Horváth Gábor
 A Junior programozó feladata számítógépes szoftverek (programok) megtervezése és kivitelezése.
 A rendszer elkészítésére 1 hónap áll rendelkezésre. Ez idő alatt a dokumentációnak és a rendszernek is kész kell hogy legyen.
-##Ütemterv:
+## Ütemterv:
 
 |Funkció               | Feladat                                          | Prioritás |	Becslés | Határidő |
 |:--------------------:|:------------------------------------------------:|:---------:|:-------:|:-----------:|
@@ -19,6 +19,7 @@ A rendszer elkészítésére 1 hónap áll rendelkezésre. Ez idő alatt a dokum
 |Random pont generálás | Random pont generálása képernyőre                | A         |	6 óra   | 2020.10.07. |
 |Növekedés             | Növekedés megvalósítása                          | C         | 12 óra  | 2020.10.07. |
 |Timer                 | Timer implementálása                             | B         | 6 óra   | 2020.10.07. |
+
 A: Nagyon fontos
 B: Fontos
 C: Kevésbé fontos
@@ -44,16 +45,42 @@ Fontos lenne, ha a rendszer tartalmazna igényesen elkészitett Grafikai elemeke
 - Mozgatás és Növekedés implementálása
 
 # Funkcionális terv
-Pálya megtervezése:
-A játékban egy négyzet alakú pálya lesz akadályokkal ellátva amelyek fix helyen helyezkednek el. Ha a karakterünk valamelyik oldalt a pályán kivülre megy akkor a másik oldalt jelenik meg és folytatja az előre való mozgást, ilyenkor a játékmenet folytatódik.
-Pontozási rendszer létrehozása:
-A program itt egy integer változóban tárolja az aktuális pontszámot, melyet minden alma felvéltelkor megnövel.
-Ezt a változót minden játék végén nullázzuk, hogy új játék kezdeténél ne az előzőleg elért pontszámtól induljon a számláló.
-Random pont generálása képrenyőre:
-A program a Math osztály random metódusával egy véletlenszerű pontot generál, ami a pontok elhelyezésére fog szolgálni.
-Ennek az eljárásnak mindedn új játéknál és minden pont felvétel után le kell futnia, mivel új pontra lesz szukség a játék folytatásához.
-Mozgatás és Növekedés implementálása:
-A program az x vagy y kordinátát változtat ez által a karakterünk előre fog mozogni, gombnyomással irányt tudunk változtatni a karakterünkkel. 
+
+## Rendszerszereplők:
+Admin
+Játékosok
+
+## Rendszer használati esetek és lefutásaik:
+	
+### Admin:
+- Beléphet bármelyik szereplőként és teljes hozzáférése van a rendszerhez
+- A felhasználói adatokat látják, megváltoztathatják
+- Felhasználók hozzáadásához, töléséhez van lehetősége
+- Adatbázis megtekintése
+- Alkalmazás elindítása
+- Saját adataikat tudják változtatni
+	
+### Játékosok:
+- Képes az alkalmazás elindítására
+- Az adatbázis megtekintésére
+- Saját adatai változtatására
+- Alkalmazáson belüli beállítások változtatására
+
+## Menü-hierarchiák:
+
+### Bejelentkezés:
+- Bejelentkezés
+- Regisztráció
+- Segítség
+
+### Main menü:
+- Játék elindítása
+- Felhasználók megtekintése(Admin)
+- Adatbázis megtekintése
+- Előző eredmények megtekintése
+- Személyes adatok
+- Kijelentkezés
+
 # Fizikai környezet
 A megrendelő által kért Snake játékot a JavaScriptben fogjuk kivitelezni, Visual Studio Code program használatba vételével.
 A fejlesztések Windows 10 operációs rendszeren végezzük, azonban a program több operációs rendszeren is futni fog.
@@ -65,5 +92,6 @@ A webalkalmazásnak megfelelően kell működnie és megjelennie a következő b
 - Apple Safari
 - Google Chrome
 - Opera
+
 # Tesztterv
 Alkalmazásunkat minden böngészőben teszteljük 800 × 600, 1024 × 768, 1360 × 768 és 1920 × 1080 képernyőfelbontásokkal, illetve ellenőrizzük, hogy futás közben ne fordulhassanak elő váratlan hibaesetek. Ezen felül ellenőrizzük, hogy csak az előre megadott gombokkal lehessen csak irányítani a játékot.
