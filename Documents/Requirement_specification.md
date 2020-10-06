@@ -48,13 +48,28 @@ A webalkalmazásokat és webhelyeket alaposan tesztelni kell az összes szüksé
 	A megrendelő a fő oldalon szeretne belépni, valamint megkezdeni a regisztrációt, mely egy külön oldalon folytatódna. Bejelentkezés után lehetőséget, hozzáférést kell biztosítani a felhasználónak az alkalmazás funkcióihoz, mint például adat módosítás, beállítások az alkalmazáson belül, a snake játék megkezdése, a jelenlegi rekord megtekintése vagy az előző körben elért pontszám visszanézése.
 # Követelménylista
 
-Modul	Id	Név				Leírás
+Funkcionális:
+- Regisztráció létrehozása
+- Log in létrehozása
+- Pontozási rendeszer megtervezése és létrehozása
+- Random pont generálása képernyőre
+- Mozgatás és növkedés megtervezése és létrehozása
 
-Game	G1	Pálya tervezés			Pálya megtervezése
-Game	G2	Pontozási rendszer		Pontozási rendszer létrehozása
-Game	G3	Random pont generálás		Random pont generálása képrenyőre
-Game	G4	Mozgatás,Növekedés		Mozgatás és Növekedés implementálása
-Game	G5	Grafikai elemek			Grafikai elemek megtervezése
+Nem funkcionális:
+- Pálya megtervezése
+- Grafikai elemek megtervezése
+- Egyértelmű felhasználói felület megtervezése és létrehozása
+
+Modul		Id	Név				Leírás
+
+Jogosultság	A1	Regisztráció			Regisztráció létrehozása
+Jogosultság	A2	Log in				Log in létrehozása
+Játék		G1	Pálya tervezés			Pálya megtervezése
+Játék		G2	Pontozási rendszer		Pontozási rendszer létrehozása
+Játék		G3	Random pont generálás		Random pont generálása képrenyőre
+Játék		G4	Mozgatás,Növekedés		Mozgatás és Növekedés implementálása
+Játék		G5	Grafikai elemek			Grafikai elemek megtervezése
+Játék		G6	Felhasználói felület		Felhasználói terület megtervezése és létrehozása
 
 # Irányított és szabad szöveges riportok szövege
 # Fogalomszótár
