@@ -35,7 +35,7 @@ C: Kevésbé fontos
 - Tesztelés/Javítás.
 
 # Üzleti folyamatok modellje
-Sponzorok támogatására lesz szükség a rendszer fejlesztése során, illetve egy szerverre amin a rendszer fut. A felhasználóknak szüksége van aktív internet kapcsolatra, hogy a rendszert igénybe tudják venni.
+![Üzleti folyamatok modellje](Use_case.png)
 
 # Követelmények
 Fontos lenne, ha a rendszer tartalmazna igényesen elkészitett Grafikai elemeket mivel ez nagyban hozzajárul a felhasználói élményhez. Ezentúl jó lenne, ha a rendszer tartalmazna megfelelően elkészített Pontrendszert is ahol megnézhetnénk az előző körökben elért eredményt és azt is, hogy mennyi volt a legjobb elért pontszám. Legyen a rendszerben egy igényesen elkészített Menü is amelyben kényelmesen lehet navigálni, például játék indítására, pontszámok megtekintésére, esetleg nehézségi szint választására és egy kilépés opcióra.
