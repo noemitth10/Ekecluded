@@ -44,13 +44,13 @@ között vissza tudják majd nézni a legmagasabb elért pontszámukat vagy az e
 pontszámukat. A többjétákos mód kialakítása fontos, hogy megadjuk a lehetőséget a 
 felhasználók közti verseny szellem kialakításában, átalakításában.
 # Követelménylista
-##Funkcionális:
+## Funkcionális:
 - Regisztráció létrehozása
 - Log in létrehozása
 - Pontozási rendeszer megtervezése és létrehozása
 - Random pont generálása képernyőre
 - Mozgatás és növkedés megtervezése és létrehozása
-##Nem funkcionális:
+## Nem funkcionális:
 - Pálya megtervezése
 - Grafikai elemek megtervezése
 - Egyértelmű felhasználói felület megtervezése és létrehozása
@@ -62,7 +62,7 @@ felhasználók közti verseny szellem kialakításában, átalakításában.
 | Játék	      | G1 | Pálya tervezés        | Pálya megtervezése                               |
 | Játék	      |	G2 | Pontozási rendszer	   | Pontozási rendszer létrehozása                   |
 | Játék	      |	G3 | Random pont generálás | Random pont generálása képrenyőre                |
-| Játék	      |	G4 | Mozgatás,Növekedés	   | Mozgatás és Növekedés implementálása             |
+| Játék	      |	G4 | Mozgatás, Növekedés   | Mozgatás és Növekedés implementálása             |
 | Játék       |	G5 | Grafikai elemek       | Grafikai elemek megtervezése                     |
 | Játék	      |	G6 | Felhasználói felület  | Felhasználói terület megtervezése és létrehozása |
 
@@ -75,10 +75,10 @@ A pont gyűjtés funkció úgy kerül megvalósításra, hogy mikor a kígyó á
 # Képernyőtervek
 
 # Fogalomszótár
-	JavaScript - A JavaScript avagy JS egy programozási nyelv, amelyet kifejezetten az internetre fejlesztettek ki. A legtöbb webböngésző szoftver, illetve az okostelefonok is mind támogatják a JavaScriptet.
-	Keretrendszer - A keretrendszereket programozók használják az alkalmazások alap struktúrájának kialakítására. 
-	Szoftver - A szoftver (angol: software) alatt a legszűkebb értelemben elektronikus adatfeldolgozó berendezések (például: számítógépek) memóriájában elhelyezkedő, azokat működtető programokat értünk.
-	Program kód - A program kód alatt azokat az lagoritmusokat és egyéb számítu gépes utasításokat értjük, melyek hozzájárulnak a program működéséhez.
-	Funkció - Egy szerep vagy rendeltetés, amit egy gép, szerkezet, szervezet vagy személy tölt be.
-	Változó - A változó egy, olyan érték amelynek értéke a program futása alatt folyamatosan változhat.
-	Math osztály - A feljesztői környezetebe beleépített matematikai osztály, ami segít a precíz matematikai kalkulációkkal.
+JavaScript: A JavaScript avagy JS egy programozási nyelv, amelyet kifejezetten az internetre fejlesztettek ki. A legtöbb webböngésző szoftver, illetve az okostelefonok is mind támogatják a JavaScriptet.
+Keretrendszer: A keretrendszereket programozók használják az alkalmazások alap struktúrájának kialakítására. 
+Szoftver: A szoftver (angol: software) alatt a legszűkebb értelemben elektronikus adatfeldolgozó berendezések (például: számítógépek) memóriájában elhelyezkedő, azokat működtető programokat értünk.
+Program kód: A program kód alatt azokat az lagoritmusokat és egyéb számítu gépes utasításokat értjük, melyek hozzájárulnak a program működéséhez.
+Funkció: Egy szerep vagy rendeltetés, amit egy gép, szerkezet, szervezet vagy személy tölt be.
+Változó: A változó egy, olyan érték amelynek értéke a program futása alatt folyamatosan változhat.
+Math osztály: A feljesztői környezetebe beleépített matematikai osztály, ami segít a precíz matematikai kalkulációkkal.
