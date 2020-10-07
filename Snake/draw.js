@@ -17,7 +17,7 @@ var snake;
         if (snake.eat(apple)){
             apple.pickLocation();
             count++;
-            document.getElementById('counter').innerHTML = count;
+            document.getElementById('counter').innerHTML = count +" Pont";
         }
     }, 250)
 }());

@@ -74,12 +74,13 @@ Amikor a felhasználók megnyitják a webes aplikációt a kezdő oldalra fognak
 A pont gyűjtés funkció úgy kerül megvalósításra, hogy mikor a kígyó áthalad egy gyümölcs obijektumon akkor megnöveljük a számlálót. Az eredményt egy táblába mentjük ki a játék végeztével. A mozgatás billentyűzet segítségével történik. Minden begyűjtött pont után a kígyó egy előre meghatározott értékkel lesz nagyobb. Random pontot egy Math osztálybeli Random függvény segítségével valósítjuk meg.
 
 # Képernyőtervek
+![Képernyőtervek](Login.png)
 ![Képernyőtervek](snake.png)
 # Fogalomszótár
-JavaScript: A JavaScript avagy JS egy programozási nyelv, amelyet kifejezetten az internetre fejlesztettek ki. A legtöbb webböngésző szoftver, illetve az okostelefonok is mind támogatják a JavaScriptet.
-Keretrendszer: A keretrendszereket programozók használják az alkalmazások alap struktúrájának kialakítására. 
-Szoftver: A szoftver (angol: software) alatt a legszűkebb értelemben elektronikus adatfeldolgozó berendezések (például: számítógépek) memóriájában elhelyezkedő, azokat működtető programokat értünk.
-Program kód: A program kód alatt azokat az lagoritmusokat és egyéb számítu gépes utasításokat értjük, melyek hozzájárulnak a program működéséhez.
-Funkció: Egy szerep vagy rendeltetés, amit egy gép, szerkezet, szervezet vagy személy tölt be.
-Változó: A változó egy, olyan érték amelynek értéke a program futása alatt folyamatosan változhat.
-Math osztály: A feljesztői környezetebe beleépített matematikai osztály, ami segít a precíz matematikai kalkulációkkal.
+- JavaScript: A JavaScript avagy JS egy programozási nyelv, amelyet kifejezetten az internetre fejlesztettek ki. A legtöbb webböngésző szoftver, illetve az okostelefonok is mind támogatják a JavaScriptet.
+- Keretrendszer: A keretrendszereket programozók használják az alkalmazások alap struktúrájának kialakítására. 
+- Szoftver: A szoftver (angol: software) alatt a legszűkebb értelemben elektronikus adatfeldolgozó berendezések (például: számítógépek) memóriájában elhelyezkedő, azokat működtető programokat értünk.
+- Program kód: A program kód alatt azokat az lagoritmusokat és egyéb számítu gépes utasításokat értjük, melyek hozzájárulnak a program működéséhez.
+- Funkció: Egy szerep vagy rendeltetés, amit egy gép, szerkezet, szervezet vagy személy tölt be.
+- Változó: A változó egy, olyan érték amelynek értéke a program futása alatt folyamatosan változhat.
+- Math osztály: A feljesztői környezetebe beleépített matematikai osztály, ami segít a precíz matematikai kalkulációkkal.
