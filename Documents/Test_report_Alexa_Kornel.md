@@ -1,12 +1,12 @@
-Teszt jegyzőkönyv
+# Teszt jegyzőkönyv
 
 # Projekt adatai:
-Projektkód: SJ014FS
-Projektnév: Snake Játék
+- Projektkód: SJ014FS
+- Projektnév: Snake Játék
 
 # Tesztelő adatai:
-Név: Alexa Kornél
-Beosztás: Junior programozó
+- Név: Alexa Kornél
+- Beosztás: Junior programozó
 
 | Tesztkód | Tesztelt funkció | Teszteset leírása                                                                                              | Státusz     | Hiba oka                                      | időpont           |
 |----------|------------------|----------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------|-------------------|
