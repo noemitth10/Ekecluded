@@ -1,12 +1,12 @@
 # Teszt jegyzőkönyv
 
 # Projekt adatai:
-Projektkód: SJ014FS
-Projektnév: Snake Játék
+- Projektkód: SJ014FS
+- Projektnév: Snake Játék
 
 # Tesztelő adatai:
-Név: Horváth István
-Beosztás: Junior programozó
+- Név: Horváth István
+- Beosztás: Junior programozó
 
 | Tesztkód | Tesztelt funkció | Teszteset leírása                                    | Státusz     | Hiba oka                                 | Időpont           |
 |----------|------------------|------------------------------------------------------|-------------|------------------------------------------|-------------------|
