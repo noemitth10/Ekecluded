@@ -63,7 +63,6 @@ A megrendelő a fő oldalon szeretne belépni, valamint megkezdeni a regisztrác
 |Játék       | G5 | Grafikai elemek       | Grafikai elemek megtervezése                    |
 |Játék       | G6 | Felhasználói felület  | Felhasználói terület megtervezése és létrehozása|
 
-# Irányított és szabad szöveges riportok szövege
 # Fogalomszótár
 JavaScript - A JavaScript avagy JS egy programozási nyelv, amelyet kifejezetten az internetre fejlesztettek ki. A legtöbb webböngésző szoftver, illetve az okostelefonok is mind támogatják a JavaScriptet. 
 Keretrendszer - A keretrendszereket programozók használják az alkalmazások alap struktúrájának kialakítására. 

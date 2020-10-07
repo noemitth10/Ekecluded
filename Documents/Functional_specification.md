@@ -67,13 +67,14 @@ felhasználók közti verseny szellem kialakításában, átalakításában.
 | Játék	      |	G6 | Felhasználói felület  | Felhasználói terület megtervezése és létrehozása |
 
 # Használati esetek 
-Amikor a felhasználók megnyitják a webes aplikációt a kezdő oldalra fognak kerülni ami egy bejelentkezési felület, ahol több opcióval kerülnek szembe mint például a regisztráció vagy a jelszó megváltoztatása. Bejelentkezés vagy regisztráció után a felhasználók a fő oldalra kerülnek, ahol el bírják idítani az aplikációt vagy a saját felhasználói fiókjukat tudják testreszabni.
+Amikor a felhasználók megnyitják a webes aplikációt a kezdő oldalra fognak kerülni ami egy bejelentkezési felület, ahol több opcióval kerülnek szembe mint például a regisztráció vagy a jelszó megváltoztatása. Bejelentkezés vagy regisztráció után a felhasználók a fő oldalra kerülnek, ahol el bírják idítani az applikációt vagy a saját felhasználói fiókjukat tudják testreszabni.
+![Használati esetek](Use_case.png)
 
 # Követelmény megfeleltetés
 A pont gyűjtés funkció úgy kerül megvalósításra, hogy mikor a kígyó áthalad egy gyümölcs obijektumon akkor megnöveljük a számlálót. Az eredményt egy táblába mentjük ki a játék végeztével. A mozgatás billentyűzet segítségével történik. Minden begyűjtött pont után a kígyó egy előre meghatározott értékkel lesz nagyobb. Random pontot egy Math osztálybeli Random függvény segítségével valósítjuk meg.
 
 # Képernyőtervek
-
+![Képernyőtervek](snake.png)
 # Fogalomszótár
 JavaScript: A JavaScript avagy JS egy programozási nyelv, amelyet kifejezetten az internetre fejlesztettek ki. A legtöbb webböngésző szoftver, illetve az okostelefonok is mind támogatják a JavaScriptet.
 Keretrendszer: A keretrendszereket programozók használják az alkalmazások alap struktúrájának kialakítására. 
